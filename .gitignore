@@ -1,2 +1,10 @@
 /test/angular*/
 /node_modules
+.idea/angular-promise-extras.iml
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/copyright/profiles_settings.xml
